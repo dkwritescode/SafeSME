@@ -1,4 +1,3 @@
-
 # 🛡️ Sentinel — Smart Cybersecurity Assistant for SMEs
 
 **Sentinel** is an intelligent, lightweight, and user-friendly **cybersecurity tool and browser extension** designed to help **small and medium enterprises (SMEs)** protect their digital infrastructure from modern cyber threats.
@@ -114,8 +113,7 @@ Most SMEs lack dedicated security teams — leaving them vulnerable to phishing,
 | Role                | Name                                | Responsibility           |
 | ------------------- | ----------------------------------- | ------------------------ |
 | Team Leader         | Roonaak Agasti                      | Architecture, AI modules |
-| Backend Developer   | Nishant Kumar Das, Sabyasachi Kundu | API, authentication      |
+| Backend Developer   | Sabyasachi Kundu                    | API, authentication      |
 | Frontend Developer  | Sanjay Kumar Biswal                 | UI/UX, dashboards        |
 | AI/ML Engineer      | Roonaak Agasti                      | Phishing & URL models    |
-| Security Mentor     | Jyoti Prakash Mallik                | Guidance, validation     |
-| Project Presentator | Shubhankar Dixit                    | Presentation, validation |
+| Project Presentator | Shubhankar Dikshit                  | Presentation, validation |
